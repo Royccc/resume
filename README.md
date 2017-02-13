@@ -1,11 +1,10 @@
 # My Resume
 
-[html.love](http://html.love)
+https://royccc.github.io/resume/
 
 ## Introduction
 
-风格参考 @Ovilia @joyeecheung @lishengzxc
-
+风格参考 @DIYGod
 ## Usage
 
 1. Star 本项目
